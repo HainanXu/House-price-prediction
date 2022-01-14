@@ -1,4 +1,4 @@
-# SEANORTH
+# Multivariate Analysis
 
 A place to record my progress in learning Multivariate Analysis( Stats 4M) !
 
