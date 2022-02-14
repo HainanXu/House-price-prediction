@@ -1,10 +1,6 @@
 # Multivariate Analysis
 
-A place to record my progress in learning Multivariate Analysis( Stats 4M) !
-Learned how to use R markdown.
+A place to record my progress in Multivariate Analysis!
 
-Note:
-
-A statistical technique:PCA   
-Principal component analysis  
-Data sets: "heptathlon"/  
+PCA/LDA   
+ 
