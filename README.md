@@ -2,7 +2,7 @@
 
 A playgroubnd to record my progress in Multivariate Analysis!
 
-# dimonsion reduction
+#### dimonsion reduction
 PCA
 factor analysis
 LDA/QDA
