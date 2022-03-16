@@ -1,6 +1,5 @@
 # Multivariate Analysis
 
-A playgroubnd to record my progress in Multivariate Analysis!
-
+First try on regression analysis.
 
  
